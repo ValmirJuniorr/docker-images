@@ -1,4 +1,4 @@
-FROM ruby:2.5
+FROM ruby:2.7.1
 ARG WORK_DIR=/rails
 ENV work_dir $WORK_DIR
 RUN gem install rails

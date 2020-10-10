@@ -1,4 +1,4 @@
-From python:3.6
+From python:3.7
 
 RUN pip3 install rasa
 
